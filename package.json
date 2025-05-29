@@ -1,0 +1,11 @@
+{
+  "name": "xentai-site",
+  "version": "1.0.0",
+  "description": "Xentai static site",
+  "scripts": {
+    "start": "echo \"No dev server needed for static HTML.\"",
+    "build": "echo \"No build step required for static HTML.\""
+  },
+  "author": "Xentai",
+  "license": "MIT"
+}
